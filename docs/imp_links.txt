@@ -1,3 +1,0 @@
-https://stackoverflow.com/questions/51133463/why-strcmp-works-differently-in-code-blocks-particularly-in-gcc-and-other-co
-
-http://www.cplusplus.com/forum/general/91265/

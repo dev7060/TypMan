@@ -47,6 +47,9 @@ void entermenu(){
 }
 void practice(){
     char text[10000]="this is michael";
+    /*
+    char text[10000]="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer semper porttitor commodo. Mauris sit amet vehicula quam. Nunc tempus diam dui, eget cursus mauris tincidunt vel. In sed volutpat lectus. Cras sed magna mollis, laoreet turpis eu, pulvinar eros. Vivamus sit amet ullamcorper magna. Suspendisse sed justo velit. Sed fringilla metus ipsum, id venenatis lectus euismod vel. Vivamus sed massa vitae metus hendrerit tincidunt sit amet nec dolor. Etiam ex ex, faucibus non volutpat sed, ultrices in turpis. Cras id commodo lorem. Maecenas sit amet tempus ligula.";
+    */
     char ip[10000];
     int ch;
     int i;
