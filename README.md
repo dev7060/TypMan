@@ -1,4 +1,8 @@
-# TypMan
+<p align="center">
+  <img src="https://github.com/mbhup/TypMan/raw/master/media/logo.PNG" width="200" title="TypMan Screenshot">
+</p>
+<h1 align="center">TypMan<h1>
+  
 ## CLI based Typing Practice App written in C
 ## How To's + Other Notes :
 * First input is command. "load" to load files. Plus all the cmd commands are supported. The same input field can be used to set colors like COLOR 0A.
