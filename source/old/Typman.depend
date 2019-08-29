@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1552753360 source:d:\github\typman\source\main.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<string.h>
-

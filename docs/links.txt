@@ -1,5 +1,0 @@
-https://stackoverflow.com/questions/51133463/why-strcmp-works-differently-in-code-blocks-particularly-in-gcc-and-other-co
-
-http://www.cplusplus.com/forum/general/91265/
-
-https://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project
