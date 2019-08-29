@@ -9,5 +9,5 @@
 * Once the whole text is completed, user is redirected to the command page.
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbhup/TypMan/master/media/1.png?token=ALEDBY2WKWHD4T6255QILJ25M74IY" width="1000" title="TypMan Screenshot">
+  <img src="https://github.com/mbhup/TypMan/raw/master/media/1.png" width="1000" title="TypMan Screenshot">
 </p>
